@@ -1,0 +1,21 @@
+.outerContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 2%;
+}
+
+.innerContainer{
+  display: flex;
+  gap: 2rem;
+}
+
+.errMsg{
+  color: red;
+  font-size: 12px;
+}
+
+p{
+  margin-top: 0;
+}
